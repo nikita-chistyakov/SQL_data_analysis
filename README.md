@@ -6,7 +6,7 @@ As part of the SQL journey to explore a database and the data in it, I accessed 
 
 ## Features
 
-- Join/inner JOIN
+- Join/left join
 - Computing the averages
 - Correlation
 - Trimming
